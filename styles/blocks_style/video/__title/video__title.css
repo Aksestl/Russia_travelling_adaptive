@@ -1,0 +1,42 @@
+.video__title{
+    width: 80%;
+    font-family: "Inter";
+    font-weight: 1000;
+    font-size: 72px;
+    line-height: 78px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0 auto 30px;
+
+}
+
+@media (max-width: 1280px){
+    .video__title{
+    width: 80%;
+ }
+ }
+
+ @media (max-width: 1024px){
+    .video__title{
+    width: 100%;
+ }
+ }
+@media (max-width: 768px){
+    .video__title{
+    width: 70%;
+    font-size: 42px;
+    line-height: 46px;
+ }
+ }
+@media (max-width: 375px){
+    .video__title{
+    font-size: 32px;
+    line-height: 35px;
+    width: 92%;
+}
+}
+@media (max-width: 320px){
+    .video__title{
+    width: 100%;
+ }
+ }

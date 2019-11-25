@@ -1,0 +1,16 @@
+.comment__author{
+    font-family: "Inter";
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 23px;
+    color: #FFFFFF;
+    
+}
+
+
+@media (max-width: 768px){
+    .comment__author{
+    display: flex;
+    align-self: center;
+    order: 1;
+}}

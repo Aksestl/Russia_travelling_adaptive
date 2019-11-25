@@ -1,0 +1,42 @@
+.cover__title{
+    font-family: "Inter";
+    font-weight: 1000;
+    font-size: 72px;
+    line-height: 78px;
+    text-decoration: none;
+    text-align: center;
+    color: #FFFFFF;
+    display: flex;
+    z-index: 3;
+    margin-bottom: 100px;
+}
+
+@media (max-width: 1024px){
+    .cover__title{
+        width: 50%;
+        margin-bottom: 30px;
+    }
+ }
+@media (max-width: 768px){
+    .cover__title{
+        width: 70%;
+        margin-bottom: 20px;    
+    }}
+@media (max-width: 400px){
+    .cover__title{
+        width: 70%;
+        font-size: 54px;
+        line-height: 57px;
+    }}  
+@media (max-width: 375px){
+    .cover__title{
+        font-size: 32px;
+        line-height: 35px;
+        width: 60%;
+        margin-bottom: 10px;   
+   }}
+@media (max-width: 320px){
+    .cover__title{
+        width: 75%; 
+        margin-bottom: 5px; 
+   }}

@@ -1,0 +1,35 @@
+@import url(__text-one/intro__text-one.css);
+@import url(__subtitle/intro__subtitle.css);
+@import url(__title/intro__title.css);
+@import url(__text-tree/intro__text-tree.css);
+
+.intro{
+    margin: 0 auto 90px;
+    width: 68%;
+}
+@media (max-width: 1280px){
+    .intro{
+    width: 80%;
+ }
+ }
+ @media (max-width: 1024px){
+    .intro{
+    width: 90%;
+ }
+ }
+ @media (max-width: 768px){
+    .intro{
+    width: 95%;
+ }
+ }
+ @media (max-width: 375px){
+    .intro{
+    width: 92%;
+    margin-bottom: 64px;
+ }
+ }
+ @media (max-width: 320px){
+    .intro{
+    width: 95%;
+ }
+ }

@@ -1,0 +1,40 @@
+@import url(vendor/normalize.css);
+@import url(blocks_style/header/header.css);
+@import url(blocks_style/lead/lead.css);
+@import url(blocks_style/intro/intro.css);
+@import url(blocks_style/photo-grid/photo-grid.css);
+@import url(blocks_style/places/places.css);
+@import url(blocks_style/video/video.css);
+@import url(blocks_style/comments/comments.css);
+@import url(blocks_style/cover/cover.css);
+@import url(blocks_style/footer/footer.css);
+@import url('https://rsms.me/inter/inter.css');
+
+body{
+   background: #2A2C2F;
+}
+
+.page{
+   width: 100%;
+   min-width: 320px;
+   max-width: 1440px;
+   background: #2A2C2F;
+   margin: 0 auto;
+   font-family: 'Inter';
+   padding-top: 30px;
+}
+
+
+a:hover{
+   opacity: 0.7;
+}
+
+.text_bold{
+   font-weight: 800;
+}
+
+@media (max-width: 375px){
+   .page{
+   padding-top: 16px;
+}
+}

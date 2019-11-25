@@ -1,0 +1,50 @@
+.video__item-title{
+    width: 55%;
+    font-family: "Inter";
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 39px;
+    color: #FFFFFF;
+    display: flex;
+    z-index: 2;
+    margin-top: 1%;
+    margin-left: 5%;
+    margin-bottom: 2%;
+}
+
+@media (max-width: 1024px){
+    .video__item-title{
+    width: 70%;
+ }
+ }
+ @media (max-width: 768px){
+    .video__item-title{
+    width: 94%;
+ }
+ }
+ @media (max-width: 700px){
+   .video__item-title{
+   width: 85%;
+   font-size: 24px;
+   line-height: 26px;
+}
+}
+@media (max-width: 400px){
+   .video__item-title{
+   width: 92%;
+   font-size: 18px;
+   line-height: 20px;
+}
+}
+ @media (max-width: 375px){
+    .video__item-title{
+    width: 92%;
+    font-size: 24px;
+    line-height: 26px;
+ }
+ }
+ @media (max-width: 320px){
+    .video__item-title{
+    width: 92%;
+ }
+ }

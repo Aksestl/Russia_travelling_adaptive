@@ -1,0 +1,15 @@
+.intro__text-tree{
+    font-family: 'Inter';
+    font-size: 13px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin-bottom: 0px;
+    margin-top: 0;
+}
+
+@media (max-width: 375px){
+    .intro__text-tree{
+        font-size: 12px;
+        line-height: 19px;
+ }
+ }

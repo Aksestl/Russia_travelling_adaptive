@@ -1,0 +1,14 @@
+.comment__quote{
+    font-family: "Inter";
+    font-weight: 200;
+    font-size: 14px;
+    line-height: 23px;
+    color: #FFFFFF;
+
+}
+
+@media (max-width: 768px){
+    .comment__quote{
+    display: flex;
+    order: 3;
+}}

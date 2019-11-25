@@ -1,0 +1,8 @@
+.video__play-icon{
+    height: 41px;
+    display: flex;
+    align-self: flex-start;
+    z-index: 2;
+    margin-top: 5%;
+    margin-left: 5%;
+}

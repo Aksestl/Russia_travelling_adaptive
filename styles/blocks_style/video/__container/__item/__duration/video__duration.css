@@ -1,0 +1,11 @@
+.video__duration{
+    font-family: "Inter";
+    font-size: 12px;
+    line-height: 13px;
+    letter-spacing: 0.3em;
+    color: #FFFFFF;
+    display: flex;
+    z-index: 2;
+    margin-top: 17%;
+    margin-left: 5%;
+}

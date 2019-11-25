@@ -1,0 +1,17 @@
+.video__item-subtitle{
+    font-family: "Inter";
+    font-size: 14px;
+    line-height: 15px;
+    color: #FFFFFF;
+    display: flex;
+    z-index: 2;
+    margin-top: 0;
+    margin-left: 5%;
+
+}
+@media (max-width: 375px){
+    .video__item-subtitle{
+    font-size: 14px;
+    line-height: 15px;
+ }
+ }

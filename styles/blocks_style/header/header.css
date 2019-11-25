@@ -1,0 +1,38 @@
+@import url(__langs/header__langs.css);
+@import url(__logo/header__logo.css);
+
+.header{
+    font-family: "Inter";
+    margin: 0 auto 57px;
+    width: 82%;
+    display: flex;
+    justify-content: space-between;
+}
+
+@media (max-width: 1280px){
+    .header{
+    width: 82%;
+}
+}
+@media (max-width: 1024px){
+    .header{
+    width: 90%;
+}
+}
+@media (max-width: 768px){
+    .header{
+    width: 93%;
+    
+}
+}
+@media (max-width: 375px){
+    .header{
+    width: 91%;
+    margin-bottom: 45px;
+}
+}
+@media (max-width: 320px){
+    .header{
+    width: 90%;
+}
+}

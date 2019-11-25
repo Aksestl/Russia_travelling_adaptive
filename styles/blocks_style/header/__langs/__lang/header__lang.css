@@ -1,0 +1,22 @@
+@import url(_select/header__lang_select.css);
+
+.header__lang{
+    font-family: "Inter";
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 23px;
+    text-align: right;
+    text-decoration: none;
+    color: #FFFFFF;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 0 10px 10px;
+}
+
+@media (max-width: 375px){
+    .header__lang{
+        font-size: 18px;
+        line-height: 17px;
+}
+}
