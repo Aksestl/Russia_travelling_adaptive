@@ -6,4 +6,4 @@
     * HTML
     * CSS
     * GIT 
-* To deploy the project, follow the link 
+* To deploy the project, follow the link  https://aksestl.github.io/Russia_travelling_adaptive/
