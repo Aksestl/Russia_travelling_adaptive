@@ -9,4 +9,4 @@
     * Grig
     * Adaptive
     * GIT 
-* To deploy the project, follow the link  https://aksestl.github.io/Russia_travelling_adaptive/
+* To deploy the project, follow the link  https://aksestl.github.io/Russia_travelling_adaptive_layout/
